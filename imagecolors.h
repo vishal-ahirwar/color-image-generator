@@ -1,0 +1,4 @@
+#ifndef IMAGECOLORS_H
+#define IMAGECOLORS_H
+
+#endif // IMAGECOLORS_H
